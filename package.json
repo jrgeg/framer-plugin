@@ -1,0 +1,17 @@
+{
+  "name": "framer-image-manager-plugin",
+  "version": "1.0.0",
+  "description": "Plugin para Framer que permite listar y reemplazar imágenes framerusercontent",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "framer": "latest",
+    "react": "latest",
+    "react-dom": "latest"
+  },
+  "devDependencies": {
+    "vite": "latest"
+  }
+}
