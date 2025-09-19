@@ -1,0 +1,12 @@
+{
+  "name": "Image Manager Plugin",
+  "description": "Muestra y reemplaza imágenen framerusercontent y muestra su tamaño.",
+  "version": "1.0.0",
+  "main": "plugin.tsx",
+  "api": "0.1",
+  "pluginType": "ui",
+  "dimensions": {
+    "width": 360,
+    "height": 600
+  }
+}
